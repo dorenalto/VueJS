@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Hello Vue.js - by Marcelo Toshio Yamashita 337940"/>
+    <HelloWorld msg="Hello Vue.js - by Dorenalto M Couto RM:338609"/>
   </div>
 </template>
 
@@ -22,8 +22,8 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #110df1;
+  color: #f10dc0;
   margin-top: 60px;
-  background-color: rgb(192, 155, 196);
+  background-color: rgb(230, 229, 220);
 }
 </style>
